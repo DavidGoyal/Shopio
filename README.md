@@ -1,4 +1,4 @@
-# MERN E-COMMERCE CLIENT 2024
+# SHOPIO
 
 This is a full stack ecommerce website built with MERN stack.
 
